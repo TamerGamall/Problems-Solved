@@ -14,7 +14,7 @@ Here I push All Problems That I Solved.
 <!---LeetCode Topics End-->
 # 🚀 LeetCode Solutions
 
-Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.com/](https://leetcode.com/u/TamerGamal/)) problems.
+Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.com/](https://leetcode.com/u/TamerGamal/) problems.
 [LeetCode](https://leetcode.com/)
 ## 📌 Contents
 - Solutions organized by language (C#,JS, ...).
