@@ -1,9 +1,6 @@
 # Problems-Solved
 <p>Hi 👋, this repository contains my solutions.</p>
 <p>Here I push All Problems That I Solved.</p>
----
-
-
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -16,14 +13,6 @@
 | ------- |
 | [0001-two-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
-
-
-## 📌 Contents
-- Solutions organized by language (C#,JS, ...).
-- Each file is named after the problem (slug) + extension.
-- Every code file includes comments with the problem title, language, and solve date.
-
-
 
 ## 📊 Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap)
