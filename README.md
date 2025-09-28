@@ -1,4 +1,5 @@
 # Problems-Solved
+Hi 👋, this repository contains my solutions.
 Here I push All Problems That I Solved.
 
 <!---LeetCode Topics Start-->
@@ -12,32 +13,21 @@ Here I push All Problems That I Solved.
 | ------- |
 | [0001-two-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
-# 🚀 LeetCode Solutions
 
-Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.com/](https://leetcode.com/u/TamerGamal/) problems.
-[LeetCode](https://leetcode.com/)
+
 ## 📌 Contents
 - Solutions organized by language (C#,JS, ...).
 - Each file is named after the problem (slug) + extension.
 - Every code file includes comments with the problem title, language, and solve date.
 
----
 
-## 📂 Folder Structure
-
----
 
 ## 📊 Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap)
 
 ---
 
-## ⚡ Latest Solutions
-| # | Title | Language | Date |
-|---|--------|----------|------|
-| 1 | Two Sum | C# | 2025-09-24 |
-| 2 | Reverse Linked List | Python | 2025-09-23 |
-| 3 | Valid Parentheses | Java | 2025-09-21 |
+
 
 ---
 
