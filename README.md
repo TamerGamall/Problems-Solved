@@ -14,10 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics End-->
 # 🚀 LeetCode Solutions
 
-Hi 👋, this repository contains my solutions for [LeetCode](https://leetcode.com/) problems.
+Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.com/](https://leetcode.com/u/TamerGamal/)) problems.
 
 ## 📌 Contents
-- Solutions organized by language (C#, Python, Java, ...).
+- Solutions organized by language (C#,JS, ...).
 - Each file is named after the problem (slug) + extension.
 - Every code file includes comments with the problem title, language, and solve date.
 
@@ -28,7 +28,7 @@ Hi 👋, this repository contains my solutions for [LeetCode](https://leetcode.c
 ---
 
 ## 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourUserName?theme=dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap)
 
 ---
 
@@ -42,7 +42,7 @@ Hi 👋, this repository contains my solutions for [LeetCode](https://leetcode.c
 ---
 
 ## 🛠️ Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamergamall&layout=compact&theme=tokyonight)
 
 ---
 
