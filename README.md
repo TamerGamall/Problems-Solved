@@ -42,7 +42,7 @@ Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.
 ---
 
 ## 🛠️ Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamergamall&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TamerGamall&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2)
 
 ---
 
@@ -53,5 +53,4 @@ Hi 👋, this repository contains my solutions for [LeetCode]([https://leetcode.
 ---
 
 ## 📧 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tamer-gamal/))  
