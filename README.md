@@ -30,6 +30,11 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
