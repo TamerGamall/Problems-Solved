@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
