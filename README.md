@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 ## Hash Table
 |  |
@@ -50,6 +51,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamerGamall/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
