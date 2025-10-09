@@ -27,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/TamerGamall/Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/TamerGamall/Problems-Solved/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,10 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/TamerGamall/Problems-Solved/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
