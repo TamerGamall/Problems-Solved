@@ -1,17 +1,17 @@
 public class Solution {
     public bool ContainsDuplicate(int[] nums) {
-     HashSet<int> seen = new HashSet<int>(); // مجموعة لتخزين العناصر اللي شفناها
-bool flag = false;
+     HashSet<int> seen = new HashSet<int>(); 
+     bool flag = false;
 
 foreach (int num in nums)
 {
-    if (seen.Contains(num)) // لو العنصر موجود
+    if (seen.Contains(num)) 
     {
         flag = true;
-        break; // نوقف البحث فورًا
+        break; 
     }
-    seen.Add(num); // لو مش موجود → نضيفه
-}
+    seen.Add(num); 
+    }
 return flag;
     }
 }
