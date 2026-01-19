@@ -25,6 +25,8 @@ for (int i = 0; i < nums.Length; i++)
     count = 0;
 }
 }
+
 return(newNum);
+
     }
 }
