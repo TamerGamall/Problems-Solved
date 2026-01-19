@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/TamerGamall/Problems-Solved/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamerGamall/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
