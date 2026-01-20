@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0029-divide-two-integers](https://github.com/TamerGamall/Problems-Solved/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/TamerGamall/Problems-Solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/TamerGamall/Problems-Solved/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +80,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/TamerGamall/Problems-Solved/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +91,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/TamerGamall/Problems-Solved/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
