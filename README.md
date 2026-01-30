@@ -35,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamerGamall/Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TamerGamall/Problems-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0707-design-linked-list](https://github.com/TamerGamall/Problems-Solved/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,10 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/TamerGamall/Problems-Solved/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
