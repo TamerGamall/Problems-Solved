@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/TamerGamall/Problems-Solved/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/TamerGamall/Problems-Solved/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/TamerGamall/Problems-Solved/tree/master/0228-summary-ranges) |
@@ -47,6 +48,7 @@
 | [0050-powx-n](https://github.com/TamerGamall/Problems-Solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/TamerGamall/Problems-Solved/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/TamerGamall/Problems-Solved/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -122,6 +124,14 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/TamerGamall/Problems-Solved/tree/master/0707-design-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TamerGamall/Problems-Solved/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TamerGamall/Problems-Solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
 
 ## 📊 Stats
