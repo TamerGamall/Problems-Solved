@@ -1,6 +1,5 @@
 public class Solution {
     public int TitleToNumber(string columnTitle) {
-        columnTitle = columnTitle.ToUpperInvariant();
 int result=0;
 foreach(char c in columnTitle)
 {
