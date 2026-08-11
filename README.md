@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/TamerGamall/Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TamerGamall/Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/TamerGamall/Problems-Solved/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
