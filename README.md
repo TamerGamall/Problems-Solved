@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/TamerGamall/Problems-Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/TamerGamall/Problems-Solved/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/TamerGamall/Problems-Solved/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamerGamall/Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/TamerGamall/Problems-Solved/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 ## Divide and Conquer
