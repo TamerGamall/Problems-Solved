@@ -24,6 +24,7 @@
 | [0228-summary-ranges](https://github.com/TamerGamall/Problems-Solved/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/TamerGamall/Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0169-majority-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/TamerGamall/Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
