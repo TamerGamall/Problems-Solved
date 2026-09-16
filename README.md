@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/TamerGamall/Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/TamerGamall/Problems-Solved/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
@@ -80,6 +81,7 @@
 | [0015-3sum](https://github.com/TamerGamall/Problems-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TamerGamall/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
