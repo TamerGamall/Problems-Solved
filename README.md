@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/TamerGamall/Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/TamerGamall/Problems-Solved/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TamerGamall/Problems-Solved/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TamerGamall/Problems-Solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TamerGamall/Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TamerGamall/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TamerGamall/Problems-Solved/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/TamerGamall/Problems-Solved/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
