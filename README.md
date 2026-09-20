@@ -72,10 +72,12 @@
 | [0151-reverse-words-in-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TamerGamall/Problems-Solved/tree/master/0171-excel-sheet-column-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TamerGamall/Problems-Solved/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TamerGamall/Problems-Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/TamerGamall/Problems-Solved/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
